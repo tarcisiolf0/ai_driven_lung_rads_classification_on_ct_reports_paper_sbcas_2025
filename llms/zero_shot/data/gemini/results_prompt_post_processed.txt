@@ -1,0 +1,2231 @@
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "periferia do segmento basal lateral direito",
+"Tamanho do nódulo" : "0,3 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "periferia do segmento basal lateral direito",
+"Tamanho do nódulo" : "0,3 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "periferia do segmento basal lateral direito",
+"Tamanho do nódulo" : "0,3 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento posterior do lobo superior direito",
+"Tamanho do nódulo" : "0,8 x 0,5 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento posterior do lobo superior direito",
+"Tamanho do nódulo" : "0,8 x 0,5 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento posterior do lobo superior direito",
+"Tamanho do nódulo" : "0,8 x 0,5 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento lateral do lobo médio",
+"Tamanho do nódulo" : "4 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento lateral do lobo médio",
+"Tamanho do nódulo" : "4 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento lateral do lobo médio",
+"Tamanho do nódulo" : "4 mm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Sim",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "periferia do segmento posterior do lobo superior direito",
+"Tamanho do nódulo" : "10,0 x 7,0 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Sim",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "periferia do segmento posterior do lobo superior direito",
+"Tamanho do nódulo" : "10,0 x 7,0 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Sim",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "periferia do segmento posterior do lobo superior direito",
+"Tamanho do nódulo" : "10,0 x 7,0 mm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento superior do lobo inferior direito",
+"Tamanho do nódulo": "0,7 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento superior do lobo inferior direito",
+"Tamanho do nódulo": "0,7 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento superior do lobo inferior direito",
+"Tamanho do nódulo": "0,7 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "pulmão direito",
+"Tamanho do nódulo" : "0,6 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "pulmão direito",
+"Tamanho do nódulo" : "0,6 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "pulmão direito",
+"Tamanho do nódulo" : "0,6 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento basal anterior esquerdo",
+"Tamanho do nódulo": "0,41 x 0,3 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento basal anterior esquerdo",
+"Tamanho do nódulo": "0,41 x 0,3 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento basal anterior esquerdo",
+"Tamanho do nódulo": "0,41 x 0,3 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento superior do lobo inferior direito",
+"Tamanho do nódulo" : "1,9 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento superior do lobo inferior direito",
+"Tamanho do nódulo" : "1,9 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento superior do lobo inferior direito",
+"Tamanho do nódulo" : "1,9 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "transição dos segmentos superior e basal lateral do lobo inferior esquerdo",
+"Tamanho do nódulo" : "0,42 x 0,35 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "transição dos segmentos superior e basal lateral do lobo inferior esquerdo",
+"Tamanho do nódulo" : "0,42 x 0,35 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "transição dos segmentos superior e basal lateral do lobo inferior esquerdo",
+"Tamanho do nódulo" : "0,42 x 0,35 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "lobo inferior direito",
+"Tamanho do nódulo" : "0,3 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "lobo inferior direito",
+"Tamanho do nódulo" : "0,3 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "lobo inferior direito",
+"Tamanho do nódulo" : "0,3 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento apical do lobo superior direito",
+"Tamanho do nódulo" : "0,4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento apical do lobo superior direito",
+"Tamanho do nódulo" : "0,4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento apical do lobo superior direito",
+"Tamanho do nódulo" : "0,4 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento basal posterior do lobo inferior direito",
+"Tamanho do nódulo" : "0,9 x 0,8 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento basal posterior do lobo inferior direito",
+"Tamanho do nódulo" : "0,9 x 0,8 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento basal posterior do lobo inferior direito",
+"Tamanho do nódulo" : "0,9 x 0,8 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "lobo superior a direta",
+"Tamanho do nódulo" : "3 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "lobo superior a direta",
+"Tamanho do nódulo" : "3 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "lobo superior a direta",
+"Tamanho do nódulo" : "3 mm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "lobo inferior esquerdo",
+"Tamanho do nódulo": "0,4 cm"
+}  {
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "lobo inferior esquerdo",
+"Tamanho do nódulo": "0,4 cm"
+}  {
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "lobo inferior esquerdo",
+"Tamanho do nódulo": "0,4 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento lingular superior",
+"Tamanho do nódulo" : "0, 4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento lingular superior",
+"Tamanho do nódulo" : "0, 4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento lingular superior",
+"Tamanho do nódulo" : "0, 4 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "lobo superior à esquerda",
+"Tamanho do nódulo" : "4 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "lobo superior à esquerda",
+"Tamanho do nódulo" : "4 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "lobo superior à esquerda",
+"Tamanho do nódulo" : "4 mm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?": "Sim",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Não",
+"Localização do nódulo": "segmento basal anterior do lobo inferior direito",
+"Tamanho do nódulo": "0,3 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Sim",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Não",
+"Localização do nódulo": "segmento basal anterior do lobo inferior direito",
+"Tamanho do nódulo": "0,3 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Sim",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Não",
+"Localização do nódulo": "segmento basal anterior do lobo inferior direito",
+"Tamanho do nódulo": "0,3 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "lobo superior esquerdo",
+"Tamanho do nódulo" : "4 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "lobo superior esquerdo",
+"Tamanho do nódulo" : "4 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "lobo superior esquerdo",
+"Tamanho do nódulo" : "4 mm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento posterior do lobo superior direito",
+"Tamanho do nódulo" : "0,3 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento posterior do lobo superior direito",
+"Tamanho do nódulo": "0,3 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento posterior do lobo superior direito",
+"Tamanho do nódulo" : "0,3 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?": "Sim",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Não",
+"Localização do nódulo": "segmento superior do lobo inferior esquerdo",
+"Tamanho do nódulo": "1,1 x 0,8 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Sim",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Não",
+"Localização do nódulo": "segmento superior do lobo inferior esquerdo",
+"Tamanho do nódulo": "1,1 x 0,8 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Sim",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Não",
+"Localização do nódulo": "segmento superior do lobo inferior esquerdo",
+"Tamanho do nódulo": "1,1 x 0,8 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?": "Sim",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Não",
+"Localização do nódulo": "ápice pulmonar direito",
+"Tamanho do nódulo": "0,3 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Sim",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Não",
+"Localização do nódulo": "ápice pulmonar direito",
+"Tamanho do nódulo": "0,3 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Sim",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Não",
+"Localização do nódulo": "ápice pulmonar direito",
+"Tamanho do nódulo": "0,3 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "ápice pulmonar à direita",
+"Tamanho do nódulo" : "5 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "ápice pulmonar à direita",
+"Tamanho do nódulo" : "5 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "ápice pulmonar à direita",
+"Tamanho do nódulo" : "5 mm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento apicoposterior esquerdo",
+"Tamanho do nódulo" : "0,5 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento apicoposterior esquerdo",
+"Tamanho do nódulo" : "0,5 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento apicoposterior esquerdo",
+"Tamanho do nódulo" : "0,5 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento anterior do lobo superior esquerdo",
+"Tamanho do nódulo" : "0,3 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento anterior do lobo superior esquerdo",
+"Tamanho do nódulo" : "0,3 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento anterior do lobo superior esquerdo",
+"Tamanho do nódulo" : "0,3 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?": "Sim",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Não",
+"Localização do nódulo": "segmento apical do lobo superior direito",
+"Tamanho do nódulo": "5 x 3 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Sim",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Não",
+"Localização do nódulo": "segmento apical do lobo superior direito",
+"Tamanho do nódulo": "5 x 3 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Sim",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Não",
+"Localização do nódulo": "segmento apical do lobo superior direito",
+"Tamanho do nódulo": "5 x 3 mm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento superiordo lobo inferior direito",
+"Tamanho do nódulo" : "0,9 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento superiordo lobo inferior direito",
+"Tamanho do nódulo" : "0,9 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento superiordo lobo inferior direito",
+"Tamanho do nódulo" : "0,9 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "lobo superior direito",
+"Tamanho do nódulo" : "0,66 x 0,44 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "lobo superior direito",
+"Tamanho do nódulo" : "0,66 x 0,44 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "lobo superior direito",
+"Tamanho do nódulo" : "0,66 x 0,44 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "Campos pulmonares",
+"Tamanho do nódulo" : "0,4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "Campos pulmonares",
+"Tamanho do nódulo" : "0,4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "Campos pulmonares",
+"Tamanho do nódulo" : "0,4 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "lobo superior esquerdo",
+"Tamanho do nódulo" : "0,3 x 0,25 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "lobo superior esquerdo",
+"Tamanho do nódulo" : "0,3 x 0,25 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "lobo superior esquerdo",
+"Tamanho do nódulo" : "0,3 x 0,25 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "Lobo superior direito",
+"Tamanho do nódulo" : "0,5 x 0,4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "Lobo superior direito",
+"Tamanho do nódulo" : "0,5 x 0,4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "Lobo superior direito",
+"Tamanho do nódulo" : "0,5 x 0,4 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento superior do lobo inferior direito",
+"Tamanho do nódulo": "0,54 x 0,39 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento superior do lobo inferior direito",
+"Tamanho do nódulo": "0,54 x 0,39 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento superior do lobo inferior direito",
+"Tamanho do nódulo": "0,54 x 0,39 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento posterior do lobo superior esquerdo",
+"Tamanho do nódulo" : "0,4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento posterior do lobo superior esquerdo",
+"Tamanho do nódulo" : "0,4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento posterior do lobo superior esquerdo",
+"Tamanho do nódulo" : "0,4 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "subpleural no segmento superior do lobo inferior direito",
+"Tamanho do nódulo" : "0, 4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "subpleural no segmento superior do lobo inferior direito",
+"Tamanho do nódulo" : "0, 4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "subpleural no segmento superior do lobo inferior direito",
+"Tamanho do nódulo" : "0, 4 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?": "Sim",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Não",
+"Localização do nódulo": "segmento lateral do lobo médio",
+"Tamanho do nódulo": "3 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Sim",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Não",
+"Localização do nódulo": "segmento lateral do lobo médio",
+"Tamanho do nódulo": "3 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Sim",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Não",
+"Localização do nódulo": "segmento lateral do lobo médio",
+"Tamanho do nódulo": "3 mm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento basal lateral direito",
+"Tamanho do nódulo": "0,34 x 0,31 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento basal lateral direito",
+"Tamanho do nódulo": "0,34 x 0,31 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento basal lateral direito",
+"Tamanho do nódulo": "0,34 x 0,31 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "lobo médio",
+"Tamanho do nódulo" : "1,6 x 1,4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "lobo médio",
+"Tamanho do nódulo" : "1,6 x 1,4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "lobo médio",
+"Tamanho do nódulo" : "1,6 x 1,4 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "lobo médio (pulmão direito)",
+"Tamanho do nódulo" : "0,5 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "lobo médio (pulmão direito)",
+"Tamanho do nódulo" : "0,5 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "lobo médio (pulmão direito)",
+"Tamanho do nódulo" : "0,5 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "lobo superior direito",
+"Tamanho do nódulo" : "0,6 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento posterior do lobo superior direito",
+"Tamanho do nódulo" : "0,6 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "lobo superior direito",
+"Tamanho do nódulo" : "0,6 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento lingular superior",
+"Tamanho do nódulo": "0,7 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento lingular superior",
+"Tamanho do nódulo": "0,7 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento lingular superior",
+"Tamanho do nódulo": "0,7 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento posterior do lobo superior direito",
+"Tamanho do nódulo" : "0,4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento posterior do lobo superior direito",
+"Tamanho do nódulo" : "0,4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento posterior do lobo superior direito",
+"Tamanho do nódulo" : "0,4 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento basal posterior do lobo inferior esquerdo",
+"Tamanho do nódulo" : "0,4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento basal posterior do lobo inferior esquerdo",
+"Tamanho do nódulo" : "0,4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento basal posterior do lobo inferior esquerdo",
+"Tamanho do nódulo" : "0,4 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "lobo superior direito",
+"Tamanho do nódulo" : "0,4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "lobo superior direito",
+"Tamanho do nódulo" : "0,4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "lobo superior direito",
+"Tamanho do nódulo" : "0,4 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Sim",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento anterior do lobo superior direito",
+"Tamanho do nódulo" : "4 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Sim",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "lobo superior direito",
+"Tamanho do nódulo" : "4 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Sim",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "lobo superior direito",
+"Tamanho do nódulo" : "4 mm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento lingular inferior do lobo superior esquerdo",
+"Tamanho do nódulo" : "0,4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento lingular inferior do lobo superior esquerdo",
+"Tamanho do nódulo" : "0,4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento lingular inferior do lobo superior esquerdo",
+"Tamanho do nódulo" : "0,4 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento superior do lobo inferior esquerdo",
+"Tamanho do nódulo" : "0,5 x 0,5 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento superior do lobo inferior esquerdo",
+"Tamanho do nódulo" : "0,5 x 0,5 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento superior do lobo inferior esquerdo",
+"Tamanho do nódulo" : "0,5 x 0,5 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "lobo superior direito",
+"Tamanho do nódulo" : "4 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "lobo superior direito",
+"Tamanho do nódulo" : "4 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "lobo superior direito",
+"Tamanho do nódulo" : "4 mm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento superior da língula",
+"Tamanho do nódulo" : "0,32 x 0,28 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento superior da língula",
+"Tamanho do nódulo" : "0,32 x 0,28 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento superior da língula",
+"Tamanho do nódulo" : "0,32 x 0,28 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento anterior do lobo superior direito",
+"Tamanho do nódulo": "1,1 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento anterior do lobo superior direito",
+"Tamanho do nódulo": "1,1 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento anterior do lobo superior direito",
+"Tamanho do nódulo": "1,1 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "periferia do segmento basal anterior esquerdo",
+"Tamanho do nódulo": "0,25 x 0,23 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "periferia do segmento basal anterior esquerdo",
+"Tamanho do nódulo": "0,25 x 0,23 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento basal anterior esquerdo",
+"Tamanho do nódulo": "0,25 x 0,23 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento ápico - posterior do lobo superior esquerdo",
+"Tamanho do nódulo" : "0,86 x 0,5 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento ápico - posterior do lobo superior esquerdo",
+"Tamanho do nódulo" : "0,86 x 0,5 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento ápico - posterior do lobo superior esquerdo",
+"Tamanho do nódulo" : "0,86 x 0,5 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "língula",
+"Tamanho do nódulo" : "4,8 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "língula",
+"Tamanho do nódulo" : "4,8 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "língula",
+"Tamanho do nódulo" : "4,8 mm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento superior do lobo inferior direito",
+"Tamanho do nódulo": "0,2 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento superior do lobo inferior direito",
+"Tamanho do nódulo": "0,2 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento superior do lobo inferior direito",
+"Tamanho do nódulo": "0,2 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento anterior do lobo superior direito",
+"Tamanho do nódulo" : "4 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento anterior do lobo superior direito",
+"Tamanho do nódulo" : "4 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento anterior do lobo superior direito",
+"Tamanho do nódulo" : "4 mm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?": "Sim",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento anterior do lobo superior direito",
+"Tamanho do nódulo": "0,51 x 0,37 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Sim",
+"O nódulo tem atenuação em vidro fosco?": "Sim",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento anterior do lobo superior direito",
+"Tamanho do nódulo": "0,51 x 0,37 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Sim",
+"O nódulo tem atenuação em vidro fosco?": "Sim",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento anterior do lobo superior direito",
+"Tamanho do nódulo": "0,51 x 0,37 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento basal posterior esquerdo",
+"Tamanho do nódulo" : "0,6 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento basal posterior esquerdo",
+"Tamanho do nódulo" : "0,6 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento basal posterior esquerdo",
+"Tamanho do nódulo" : "0,6 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "transição dos segmentos superior e basal lateral do lobo inferior direito",
+"Tamanho do nódulo": "0,6 x 0,55 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "transição dos segmentos superior e basal lateral do lobo inferior direito",
+"Tamanho do nódulo": "0,6 x 0,55 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "transição dos segmentos superior e basal lateral do lobo inferior direito",
+"Tamanho do nódulo": "0,6 x 0,55 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento basal lateral do lobo inferior do pulmão esquerdo",
+"Tamanho do nódulo" : "0,6 x 0,4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento basal lateral do lobo inferior do pulmão esquerdo",
+"Tamanho do nódulo" : "0,6 x 0,4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento basal lateral do lobo inferior do pulmão esquerdo",
+"Tamanho do nódulo" : "0,6 x 0,4 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "lobo superior direito",
+"Tamanho do nódulo": "0,31 x 0,28 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "lobo superior direito",
+"Tamanho do nódulo": "0,31 x 0,28 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "lobo superior direito",
+"Tamanho do nódulo": "0,31 x 0,28 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "lobo superior direito",
+"Tamanho do nódulo" : "0,7 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "periferia do segmento anterior do lobo superior direito",
+"Tamanho do nódulo" : "0,7 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "periferia do segmento anterior do lobo superior direito",
+"Tamanho do nódulo" : "0,7 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "lobo superior esquerdo",
+"Tamanho do nódulo": "3 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "lobo superior esquerdo",
+"Tamanho do nódulo": "3 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "lobo superior esquerdo",
+"Tamanho do nódulo": "3 mm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento basal posterior do lobo inferior direito",
+"Tamanho do nódulo" : "0,5 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento basal posterior do lobo inferior direito",
+"Tamanho do nódulo" : "0,5 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento basal posterior do lobo inferior direito",
+"Tamanho do nódulo" : "0,5 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento posterior do lobo superior direito",
+"Tamanho do nódulo" : "1,0 x 0,77 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento posterior do lobo superior direito",
+"Tamanho do nódulo" : "1,0 x 0,77 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento posterior do lobo superior direito",
+"Tamanho do nódulo" : "1,0 x 0,77 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento anterior do lobo superior direito",
+"Tamanho do nódulo" : "0,57 x 0,45 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento anterior do lobo superior direito",
+"Tamanho do nódulo" : "0,57 x 0,45 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento anterior do lobo superior direito",
+"Tamanho do nódulo" : "0,57 x 0,45 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Não",
+"Localização do nódulo": "segmento superior do lobo inferior esquerdo",
+"Tamanho do nódulo": "1.1 x 0,95 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Não",
+"Localização do nódulo": "segmento superior do lobo inferior esquerdo",
+"Tamanho do nódulo": "1.1 x 0,95 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Não",
+"Localização do nódulo": "segmento superior do lobo inferior esquerdo",
+"Tamanho do nódulo": "1.1 x 0,95 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento lateral do lobo médio",
+"Tamanho do nódulo" : "0,5 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento lateral do lobo médio",
+"Tamanho do nódulo" : "0,5 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento lateral do lobo médio",
+"Tamanho do nódulo" : "0,5 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento apical direito",
+"Tamanho do nódulo" : "0,7 x 0,6 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento apical direito",
+"Tamanho do nódulo" : "0,7 x 0,6 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento apical direito",
+"Tamanho do nódulo" : "0,7 x 0,6 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento anterior do lobo superior direito",
+"Tamanho do nódulo" : "0,4 x 0,45 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento anterior do lobo superior direito",
+"Tamanho do nódulo" : "0,4 x 0,45 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento anterior do lobo superior direito",
+"Tamanho do nódulo" : "0,4 x 0,45 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento lateral do lobo médio",
+"Tamanho do nódulo" : "0,5 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento lateral do lobo médio",
+"Tamanho do nódulo" : "0,5 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento lateral do lobo médio",
+"Tamanho do nódulo" : "0,5 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "periferia do segmento basal posterior direito",
+"Tamanho do nódulo" : "0,75 x 0,34 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "periferia do segmento basal posterior direito",
+"Tamanho do nódulo" : "0,75 x 0,34 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "periferia do segmento basal posterior direito",
+"Tamanho do nódulo" : "0,75 x 0,34 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "lobo superior direito",
+"Tamanho do nódulo" : "5 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "lobo superior direito",
+"Tamanho do nódulo" : "5 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "lobo superior direito",
+"Tamanho do nódulo" : "5 mm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento posterior do lobo inferior esquerdo",
+"Tamanho do nódulo" : "0,6 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento posterior do lobo inferior esquerdo",
+"Tamanho do nódulo" : "0,6 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento posterior do lobo inferior esquerdo",
+"Tamanho do nódulo" : "0,6 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento lingular superior",
+"Tamanho do nódulo" : "0,7 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento lingular superior",
+"Tamanho do nódulo" : "0,7 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento lingular superior",
+"Tamanho do nódulo" : "0,7 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento superior do lobo inferior direito",
+"Tamanho do nódulo": "0, 4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento superior do lobo inferior direito",
+"Tamanho do nódulo": "0, 4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento superior do lobo inferior direito",
+"Tamanho do nódulo": "0, 4 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "basal à direita",
+"Tamanho do nódulo" : "0,3 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "basal à direita",
+"Tamanho do nódulo" : "0,3 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "basal à direita",
+"Tamanho do nódulo" : "0,3 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento basal lateral esquerdo",
+"Tamanho do nódulo": "0,3 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento basal lateral esquerdo",
+"Tamanho do nódulo": "0,3 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento basal lateral esquerdo",
+"Tamanho do nódulo": "0,3 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "parênquima pulmonar bilateralmente",
+"Tamanho do nódulo" : "0,5 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "parênquima pulmonar bilateralmente",
+"Tamanho do nódulo" : "0,5 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "parênquima pulmonar bilateralmente",
+"Tamanho do nódulo" : "0,5 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "lobo inferior esquerdo",
+"Tamanho do nódulo" : "4 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "lobo inferior esquerdo",
+"Tamanho do nódulo" : "4 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "lobo inferior esquerdo",
+"Tamanho do nódulo" : "4 mm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?": "Sim",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Não",
+"Localização do nódulo": "lobo médio e inferior direito",
+"Tamanho do nódulo": "0,3 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Sim",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Não",
+"Localização do nódulo": "lobo médio e inferior direito",
+"Tamanho do nódulo": "0,3 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Sim",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Não",
+"Localização do nódulo": "lobo médio e inferior direito",
+"Tamanho do nódulo": "0,3 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento anterior do lobo superior esquerdo",
+"Tamanho do nódulo" : "0,37 x 0,25 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento anterior do lobo superior esquerdo",
+"Tamanho do nódulo" : "0,37 x 0,25 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento anterior do lobo superior esquerdo",
+"Tamanho do nódulo" : "0,37 x 0,25 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "lobo médio a direita",
+"Tamanho do nódulo" : "10,6 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "lobo médio a direita",
+"Tamanho do nódulo" : "10,6 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "lobo médio a direita",
+"Tamanho do nódulo" : "10,6 mm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento apicoposterior do lobo superior esquerdo",
+"Tamanho do nódulo": "0, 4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento apicoposterior do lobo superior esquerdo",
+"Tamanho do nódulo": "0, 4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Não",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Sim",
+"Localização do nódulo": "segmento apicoposterior do lobo superior esquerdo",
+"Tamanho do nódulo": "0, 4 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento inferior da língula",
+"Tamanho do nódulo" : "0,48 x 0,3 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento inferior da língula",
+"Tamanho do nódulo" : "0,48 x 0,3 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento inferior da língula",
+"Tamanho do nódulo" : "0,48 x 0,3 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "lobo superior esquerdo",
+"Tamanho do nódulo" : "0,5 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "lobo superior esquerdo",
+"Tamanho do nódulo" : "0,5 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "lobo superior esquerdo",
+"Tamanho do nódulo" : "0,5 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento basal posterior do lobo inferior direito",
+"Tamanho do nódulo" : "0,6 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento basal posterior do lobo inferior direito",
+"Tamanho do nódulo" : "0,6 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento basal posterior do lobo inferior direito",
+"Tamanho do nódulo" : "0,6 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Sim",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento lateral do lobo médio",
+"Tamanho do nódulo" : "5 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Sim",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento lateral do lobo médio",
+"Tamanho do nódulo" : "5 mm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Sim",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento lateral do lobo médio",
+"Tamanho do nódulo" : "5 mm"
+}
+
+{
+  "O nódulo tem atenuação sólida ou em partes moles?": "Sim",
+  "O nódulo tem atenuação em vidro fosco?": "Não",
+  "O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+  "O nódulo é calcificado?": "Não",
+  "Localização do nódulo": "segmento basal lateral do lobo inferior direito",
+  "Tamanho do nódulo": "1,5 x 1,1 cm"
+}{
+  "O nódulo tem atenuação sólida ou em partes moles?": "Sim",
+  "O nódulo tem atenuação em vidro fosco?": "Não",
+  "O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+  "O nódulo é calcificado?": "Não",
+  "Localização do nódulo": "segmento basal lateral do lobo inferior direito",
+  "Tamanho do nódulo": "1,5 x 1,1 cm"
+}{
+  "O nódulo tem atenuação sólida ou em partes moles?": "Sim",
+  "O nódulo tem atenuação em vidro fosco?": "Não",
+  "O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+  "O nódulo é calcificado?": "Não",
+  "Localização do nódulo": "segmento basal lateral do lobo inferior direito",
+  "Tamanho do nódulo": "1,5 x 1,1 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento medial do lobo médio",
+"Tamanho do nódulo" : "0,2 x 0,1 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento medial do lobo médio",
+"Tamanho do nódulo" : "0,2 x 0,1 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento medial do lobo médio",
+"Tamanho do nódulo" : "0,2 x 0,1 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento medial do lobo médio",
+"Tamanho do nódulo" : "0,5 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento medial do lobo médio",
+"Tamanho do nódulo" : "0,5 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento medial do lobo médio",
+"Tamanho do nódulo" : "0,5 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Sim",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento posterior do lobo superior direito",
+"Tamanho do nódulo" : "1,3 x 1,1 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Sim",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento posterior do lobo superior direito",
+"Tamanho do nódulo" : "1,3 x 1,1 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Sim",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento posterior do lobo superior direito",
+"Tamanho do nódulo" : "1,3 x 1,1 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "lobo médio",
+"Tamanho do nódulo" : "0,7 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "lobo médio",
+"Tamanho do nódulo" : "0,7 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "lobo médio",
+"Tamanho do nódulo" : "0,7 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento superior do lobo inferior direito",
+"Tamanho do nódulo" : "0,74 x 0,64 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento superior do lobo inferior direito",
+"Tamanho do nódulo" : "0,74 x 0,64 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento superior do lobo inferior direito",
+"Tamanho do nódulo" : "0,74 x 0,64 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?": "Sim",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Não",
+"Localização do nódulo": "periferia do segmento anterior do lobo superior esquerdo",
+"Tamanho do nódulo": "0,4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "periferia do segmento anterior do lobo superior esquerdo",
+"Tamanho do nódulo" : "0,4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Sim",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Não",
+"O nódulo é calcificado?": "Não",
+"Localização do nódulo": "periferia do segmento anterior do lobo superior esquerdo",
+"Tamanho do nódulo": "0,4 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?": "Sim",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Sim",
+"O nódulo é calcificado?": "Não",
+"Localização do nódulo": "segmento apical direito",
+"Tamanho do nódulo": "1,5 x 1,5 x 1,2 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Sim",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Sim",
+"O nódulo é calcificado?": "Não",
+"Localização do nódulo": "segmento apical direito",
+"Tamanho do nódulo": "1,5 x 1,5 x 1,2 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?": "Sim",
+"O nódulo tem atenuação em vidro fosco?": "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?": "Sim",
+"O nódulo é calcificado?": "Não",
+"Localização do nódulo": "segmento apical direito",
+"Tamanho do nódulo": "1,5 x 1,5 x 1,2 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento basal posterior do lobo inferior direito",
+"Tamanho do nódulo" : "0,6 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento basal posterior do lobo inferior direito",
+"Tamanho do nódulo" : "0,6 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento basal posterior do lobo inferior direito",
+"Tamanho do nódulo" : "0,6 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "base esquerda",
+"Tamanho do nódulo" : "1,1 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "base esquerda",
+"Tamanho do nódulo" : "1,1 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "base esquerda",
+"Tamanho do nódulo" : "1,1 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento basal medial do lobo inferior direito",
+"Tamanho do nódulo" : "0,4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento basal medial do lobo inferior direito",
+"Tamanho do nódulo" : "0,4 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Não",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Não",
+"O nódulo é calcificado?" : "Sim",
+"Localização do nódulo" : "segmento basal medial do lobo inferior direito",
+"Tamanho do nódulo" : "0,4 cm"
+}
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Sim",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento superior do lobo inferior direito",
+"Tamanho do nódulo" : "0,9 x 0,6 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Sim",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento superior do lobo inferior direito",
+"Tamanho do nódulo" : "0,9 x 0,6 cm"
+}{
+"O nódulo tem atenuação sólida ou em partes moles?" : "Sim",
+"O nódulo tem atenuação em vidro fosco?" : "Não",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "Sim",
+"O nódulo é calcificado?" : "Não",
+"Localização do nódulo" : "segmento superior do lobo inferior direito",
+"Tamanho do nódulo" : "0,9 x 0,6 cm"
+}
+

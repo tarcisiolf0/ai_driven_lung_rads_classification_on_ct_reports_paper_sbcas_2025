@@ -1,0 +1,24 @@
+Você receberá um laudo de tomografia computadorizada do tórax. Sua tarefa é extrair informações relevantes dos nódulos pulmonares e armazenar essas informações em um dicionário JSON que deve possuir o seguinte formato:
+
+{
+"O nódulo tem atenuação sólida ou em partes moles?" : "resposta",
+"O nódulo tem atenuação em vidro fosco?" : "resposta",
+"O nódulo tem borda espiculada ou irregular ou mal definida?" : "resposta",
+"O nódulo é calcificado?" : "resposta",
+"Localização do nódulo" : "resposta",
+"Tamanho do nódulo" : "resposta"
+}
+
+A seguir são descritos alguns requisitos para extração:
+1. Por favor extraia informações estruturadas para o nódulo pulmonar mencionado no laudo para preencher a tabela.
+2. Todas as perguntas devem ser respondidas com "Sim" ou "Não, exceto as perguntas da "Localização do nódulo" e "Tamanho do nódulo".
+3. Sólido ou partes moles e vidro fosco, são mutuamente exclusivas. Apenas uma das duas perguntas pode ser respondida com "Sim".
+4. Se o laudo não contiver informações relevantes relacionadas a uma pergunta específica ou se você não souber responder à pergunta, por favor preencha com "Não" a resposta dessa pergunta. 
+5. A pergunta do tamanho do nódulo deve ser respondida apenas com números e unidade de medida.
+6. Caso haja mais de um nódulo descrito no laudo, retornar apenas a tabela de perguntas do nódulo com maior tamanho.
+
+Aqui são descritos alguns pontos de conhecimento médico prévio para sua referência
+1. Imagem ovalar hiperdensa deve ser considerada como nódulo pulmonar calcificado.
+2. Micronódulo é um nódulo no pulmão com menos de 3 milímetros de diâmetro. Nesse contexto devido as suas pequenas dimensões não estamos interessados em extrair suas características.
+3. Massa pulmonar é qualquer área de opacificação pulmonar que mede mais de 3 cm. Nesse contexto devido as suas grandes dimensões não estamos interessados em extrair suas características.
+

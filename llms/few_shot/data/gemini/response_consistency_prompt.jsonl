@@ -1,0 +1,53 @@
+{
+  "overall_consistency_percentage": 99.3127147766323,
+  "overall_inconsistency_percentage": 0.6872852233676976,
+  "overall_skip_percentage": 0.0,
+  "per_question_analysis": {
+    "O nódulo tem atenuação sólida ou em partes moles?": {
+      "consistency_percentage": 98.96907216494846,
+      "inconsistency_percentage": 1.0309278350515463,
+      "skip_percentage": 0.0,
+      "total_occurrences": 97
+    },
+    "O nódulo tem atenuação em vidro fosco?": {
+      "consistency_percentage": 100.0,
+      "inconsistency_percentage": 0.0,
+      "skip_percentage": 0.0,
+      "total_occurrences": 97
+    },
+    "O nódulo tem borda espiculada ou irregular ou mal definida?": {
+      "consistency_percentage": 98.96907216494846,
+      "inconsistency_percentage": 1.0309278350515463,
+      "skip_percentage": 0.0,
+      "total_occurrences": 97
+    },
+    "O nódulo é calcificado?": {
+      "consistency_percentage": 100.0,
+      "inconsistency_percentage": 0.0,
+      "skip_percentage": 0.0,
+      "total_occurrences": 97
+    },
+    "Localização do nódulo": {
+      "consistency_percentage": 98.96907216494846,
+      "inconsistency_percentage": 1.0309278350515463,
+      "skip_percentage": 0.0,
+      "total_occurrences": 97
+    },
+    "Tamanho do nódulo": {
+      "consistency_percentage": 98.96907216494846,
+      "inconsistency_percentage": 1.0309278350515463,
+      "skip_percentage": 0.0,
+      "total_occurrences": 97
+    }
+  },
+  "consistency_details_by_laudo": {
+    "Unknown": {
+      "O nódulo tem atenuação sólida ou em partes moles?": "Consistent",
+      "O nódulo tem atenuação em vidro fosco?": "Consistent",
+      "O nódulo tem borda espiculada ou irregular ou mal definida?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+Coluna,Precision,Recall,F1 Score
+"('O nódulo tem atenuação sólida ou em partes moles?', 'O nódulo tem atenuação sólida ou em partes moles?')",0.3333333333333333,1.0,0.5
+"('O nódulo tem atenuação em vidro fosco?', 'O nódulo tem atenuação em vidro fosco?')",0.10526315789473684,1.0,0.1904761904761905
+"('O nódulo tem borda espiculada ou irregular ou mal definida?', 'O nódulo tem borda espiculada ou irregular ou mal definida?')",0.5,1.0,0.6666666666666666
+"('O nódulo é calcificado?', 'O nódulo é calcificado?')",0.9607843137254902,0.8448275862068966,0.8990825688073395
+"('Localização do nódulo', 'Localização do nódulo')",0.9072164948453608,1.0,0.9513513513513514
+"('Tamanho do nódulo (mm)', 'Tamanho do nódulo (mm)')",0.9072164948453608,1.0,0.9513513513513514
